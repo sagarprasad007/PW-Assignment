@@ -1,0 +1,25 @@
+1. How to check if git is available on your system?
+Ans. By using command "git --version" or "git version" either on git bash or command prompt.
+
+2. How to initialize a Git repository?
+Ans. By using command "git init" either on git bash or command prompt make sure that your folder path is opened in git bash or command prompt.
+
+3. How to tell Git about your name and email?
+Ans. Using the command "git config --global user.name" for name and "git config --global user.email" for email
+(commands should always be used in git bash or command prompt).
+
+4. How to add a file to the staging area?
+Ans. Using command "git add filename" for a single file and "git add ." for all file present is a folder or working area.
+
+5. How to remove a file from the staging area?
+Ans. Using the command "git rm --catched filename"
+
+6. How to make a commit?
+Ans. Using command " git commit -m "Message according to your commit" ".
+
+7. How to send your changes to your remote repository?
+Ans. Using the command "git pull".
+
+8. What is the difference between clone and pull?
+Ans. Clone command is used to clone code from the local repository to remote repository on the other hand
+pull command is used to make the same changes in remote repository which the other developer had made changes in the local repository.
