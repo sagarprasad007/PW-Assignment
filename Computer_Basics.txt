@@ -1,0 +1,25 @@
+1. What is Computer?
+Ans. A Computer is an electronic device that takes an input from users and processes a set of data called program and gives desired output.
+
+2. What is a Ram?
+Ans. RAM stands for Random Access Memory. RAM is one of the most fundamental elements of computer. 
+RAM is the super-fast and temporary data storage space that a computer needs to access right now or in the next few moments.
+
+3. Where is data stored in computer?
+Ans. Data is stored in hard disk or we can say a component in a hard disk known as platter stored the data.
+
+4. What is that input device used to type text and numbers on a document in the computer system?
+Ans. Keyboard.
+
+5. What are the output devices?
+Ans. An output devices is any devices that are used to send data from one computer to another or users.
+
+6. Which is the input device that allow a user to move curser or pointer on a screen?
+Ans. Mouse.
+
+7. Which language is directly understood by the computer without a translation program?
+Ans. Machine Level Language. 
+
+8. What are input devices?
+Ans. An input device is a piece of computer hardware equipment used to provide data and control signals to an information processing 
+system such as a computer or information appliance.
